@@ -47,6 +47,7 @@ body {
     height: 100%;
     width: 100%;
     z-index: -5;
+    overflow-x: hidden;
 
     
 }
@@ -102,7 +103,7 @@ nav ul li a:hover {
     padding: 15px;
     padding-bottom: 30px;
     background-color: rgb(255, 255, 255);
-    padding-right: 1008px;
+    padding-right: 100%;
     margin-top: 0px;
     margin-bottom: 0px;
 }
@@ -161,7 +162,7 @@ nav ul li a:hover {
     padding: 15px;
     padding-bottom: 30px;
     background-color: rgb(255, 255, 255);
-    padding-right: 1008px;
+    padding-right: 100%;
     margin-top: 0px;
     margin-bottom: 0px;
     width: 880px;
@@ -173,7 +174,7 @@ nav ul li a:hover {
     padding: 15px;
     padding-bottom: 30px;
     background-color: rgb(255, 255, 255);
-    padding-right: 1008px;
+    padding-right: 100%;
     margin-top: 0px;
     margin-bottom: 0px;
     width: 880px;
